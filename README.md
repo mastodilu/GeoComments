@@ -11,6 +11,8 @@ The basis of:
 
 A Vue.js project
 
+[GeoComments](https://geo-comment.firebaseapp.com/login)
+
 ## Build Setup
 
 ``` bash
